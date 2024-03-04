@@ -18,14 +18,6 @@
 
 </details>
 
-<details>
-<summary><b>🎧 Podcasts</b></summary>
-
-* [Huberman Lab](https://www.hubermanlab.com/podcast)
-
-</details>
-
-
 ### 📫 Social
 [![LinkedIn](https://img.shields.io/badge/Sudhamsu_Gurijala-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhamsugurijala)
 
