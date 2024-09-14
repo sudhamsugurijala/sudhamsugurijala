@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Useful Resources I Have Come Across
+### Useful Resources
 <details>
 <summary><b>💻 Software Development</b></summary>
 
